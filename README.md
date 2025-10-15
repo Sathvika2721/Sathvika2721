@@ -7,8 +7,9 @@ A passionate and results-driven Information Technology graduate student based in
 - Strong in data modeling, orchestration (Airflow, ADF), and cloud data warehousing with Snowflake, Redshift, and PostgreSQL, ensuring performance, scalability, and data quality.
 - Experienced in developing end-to-end analytics solutions from ingestion to visualization, leveraging Tableau, Power BI, and Flask dashboards for actionable business insights.
 - Proficient in containerization and automation using Docker, Jenkins, and CI/CD pipelines, enabling efficient deployment and version-controlled workflows.
-- Passionate about building reliable, data-driven systems that empower decision-making, with a focus on clean architecture, reproducibility, and cloud-first engineering.
-- Available for internship and full-time roles, including remote positions.
+- Passionate about building reliable, data-driven systems that empower decision-making, with a focus on clean architecture, reproducibility, and cloud-first engineering.  
+
+***Available for internship and full-time roles, including remote positions.***
 
 # Skills
 **Languages & Libraries**: Python, SQL, JavaScript, HTML/CSS, Scala, Bash, PySpark, Pandas, NumPy.  
