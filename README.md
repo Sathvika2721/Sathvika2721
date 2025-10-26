@@ -11,6 +11,11 @@ A passionate and results-driven Information Technology graduate student based in
 
 ***Available for internship and full-time roles, including remote positions.***
 
+# Industry Impact
+**Healthcare**: Enhanced clinical data integration and analytics by engineering HIPAA-compliant ETL pipelines for over a million patient records, accelerating decision-making and improving operational efficiency.
+**Finance**: Streamlined banking data operations through automated ETL pipelines and Azure-based solutions, cutting processing time by 35% and driving data-driven financial insights.
+**Technology**: Delivered enterprise-scale data engineering and cloud solutions across AWS, Azure, and Databricks, advancing automation, scalability, and real-time analytics across diverse industries.
+
 # Skills
 **Languages & Libraries**: Python, SQL, JavaScript, HTML/CSS, Scala, Bash, PySpark, Pandas, NumPy.  
 **DevOps & Automation**: CI/CD (Jenkins, GitHub Actions), Docker, Kubernetes, Linux, Git, Agile.  
